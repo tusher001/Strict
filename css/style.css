@@ -1,0 +1,243 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	font-family: 'Lato', sans-serif;
+	background-color: #f6f9f9;
+}
+header {
+    padding: 27px 0px;
+    width: 100%;
+    float: left;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+.banner {
+    background: url(../img/banner.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    float: left;
+    padding: 100px 0px 2px;
+}
+.ban-contant {
+    text-align: center;
+}
+.ban-contant h2 {
+    font-size: 120px;
+    color: white;
+    text-align: center;
+    font-family: 'Lato bold', sans-serif;
+}
+.underline {
+    border-bottom: 2px solid #15a4fa;
+    display: block;
+    margin: 2px auto 32px;
+    width: 51%;
+}
+.ban-contant p {
+    font-size: 20px;
+    color: white;
+    margin: 0px 0px 62px;
+}
+.btn {
+    padding: 15px 30px;
+    background-color: transparent;
+    font-size: 18px;
+    border-color: #15a4fa;
+    border-radius: 5%;
+    color: white;
+}
+.fa.fa-chevron-down {
+    margin: 170px 0px 0px;
+}
+.ami {
+    text-align: center;
+    width: 100%;
+    float: left;
+    padding: 65px 0px 85px;
+}
+.ami h2 {
+    font-size: 40px;
+    color: #575f6f;
+    margin: 0px 0px 35px;
+}
+.ami p {
+    font-size: 20px;
+    color: #999999;
+}
+.opt {
+    width: 100%;
+    float: left;
+    background-color: white;
+    padding: 60px 0px;
+}
+.opt h3 {
+    font-size: 22px;
+    color: #454e61;
+    margin: 30px 0px 19px;
+}
+.opt p {
+    font-size: 15px;
+    color: #999999;
+}
+.c-one {
+    width: 335px;
+    float: left;
+    text-align: center;
+    margin: 0px 22px;
+}
+.fa.fa-mobile {
+    font-size: 70px;
+    padding: 12px 32px;
+    background-color: #48baff;
+    border-radius: 3%;
+    color: white;
+}
+.c-two {
+    width: 335px;
+    float: left;
+    text-align: center;
+    margin: 0px 22px;
+}
+.fa.fa-telegram {
+    font-size: 40px;
+    color: white;
+    padding: 27px 29px;
+    background-color: #48baff;
+    border-radius: 3%;
+}
+.c-three {
+    width: 335px;
+    float: left;
+    text-align: center;
+    margin: 0px 22px;
+}
+.fa.fa-bullhorn {
+    font-size: 42px;
+    color: white;
+    background-color: #48baff;
+    padding: 26px 29px;
+    border-radius: 3%;
+}
+.portfolio {
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding: 75px 0px 95px;
+}
+.portfolio h3 {
+    font-size: 41px;
+    color: #2d3950;
+}
+.portfolio p {
+    font-size: 15px;
+    color: #b6b7b7;
+    margin: 18px 0px 60px;
+}
+.portfolio img {
+    margin: 13px;
+    width: 350px;
+}
+.stay {
+    width: 100%;
+    float: left;
+    background: url(../img/bg.png);
+    text-align: center;
+    padding: 74px 0px 110px;
+}
+.stay h3 {
+    font-size: 41px;
+    color: white;
+}
+.stay p {
+    font-size: 15px;
+    color: #8e8e90;
+    margin: 20px 0px 50px;
+}
+.form-input {
+    width: 553px;
+    height: 60px;
+    display: block;
+    background-color: inherit;
+    border-radius: 2%;
+    margin: 0px auto 20px;
+    font-size: 15px;
+    padding: 0px 20px;
+    border-color: #999999;
+}
+.text-area {
+    width: 553px;
+    height: 160px;
+    display: block;
+    margin: 0 auto 20px;
+    background-color: inherit;
+    border-color: #999999;
+    font-size: 15px;
+    padding: 25px 20px;
+}.btn-one {
+    width: 140px;
+    height: 45px;
+    background-color: inherit;
+    font-size: 18px;
+    border-color: #15a4fa;
+    border-radius: 5%;
+    padding: 16px 50px 35px;
+    color: white;
+}
+footer {
+    width: 100%;
+    float: left;
+    padding: 25px 0px;
+}
+.f-one{
+	width: 50%;
+	float: left;
+}
+.f-one p {
+    font-size: 15px;
+    color: #bbbcbc;
+}
+.f-two{
+	width: 50%;
+	float: right;
+}
+.fa.fa-facebook {
+    font-size: 15px;
+    padding: 12px 16px;
+    color: white;
+    background-color: #15a4fa;
+    border-radius: 5%;
+    margin: 0px 1px;
+    float: right;
+}
+.fa.fa-twitter{
+	font-size: 15px;
+    padding: 12px 14px;
+    color: white;
+    background-color: #15a4fa;
+    border-radius: 5%;
+    margin: 0px 1px;
+    float: right;
+}
+.fa.fa-google-plus{
+	font-size: 15px;
+    padding: 12px 12px;
+    color: white;
+    background-color: #15a4fa;
+    border-radius: 5%;
+    margin: 0px 1px;
+    float: right;
+}
+.fa.fa-linkedin{
+	font-size: 15px;
+    padding: 12px 15px;
+    color: white;
+    background-color: #15a4fa;
+    border-radius: 5%;
+    margin: 0px 1px;
+    float: right;
+}
